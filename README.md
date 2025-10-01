@@ -13,7 +13,7 @@ This project analyzes subscription churn data to identify key drivers of churn a
 * Matplotlib
 * Seaborn
 
-## How to Run
+## How to Run....
 
 1. **Install Dependencies:**  Ensure you have Python 3 installed.  Then, install the required Python libraries using pip:
 
