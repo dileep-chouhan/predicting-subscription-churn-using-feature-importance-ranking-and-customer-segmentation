@@ -27,7 +27,7 @@ This project analyzes subscription churn data to identify key drivers of churn a
    python main.py
    ```
 
-## Example Output....
+## Example Output
 
 The script will print key findings to the console, including:
 
