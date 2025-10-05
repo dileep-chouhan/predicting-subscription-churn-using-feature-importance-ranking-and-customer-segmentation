@@ -33,6 +33,6 @@ The script will print key findings to the console, including:
 
 * Feature importance scores, ranked in order of influence on churn.
 * Summary statistics for each identified customer segment.
-*  Details on the chosen segmentation model and its performance metrics.
+* Details on the chosen segmentation model and its performance metrics.
 
 Additionally, the analysis generates several visualization files (e.g., plots showing feature importance, churn rates by segment, etc.) in the `output` directory.  These files provide a visual representation of the analysis results.  The exact file names and contents may vary depending on the specific analysis performed.
