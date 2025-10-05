@@ -1,6 +1,6 @@
 # Predicting Subscription Churn Using Feature Importance Ranking and Customer Segmentation
 
-## Overview....
+## Overview
 
 This project analyzes subscription churn data to identify key drivers of churn and develop targeted retention strategies.  The analysis utilizes feature importance ranking techniques to pinpoint the most influential factors contributing to churn.  Furthermore, customer segmentation is employed to identify distinct groups of subscribers with varying churn probabilities, enabling the creation of tailored retention campaigns.  The project delivers insights into customer behavior and provides a framework for proactive churn management.
 
